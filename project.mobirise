@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.8.3",
-    "uniqCompNum": 12,
+    "uniqCompNum": 18,
     "versionPublish": "4.11.5",
     "name": "Personal Website - Imperial College -clone",
     "theme": {
@@ -257,6 +257,70 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#c1c1c1"
+          },
+          "text": "<p><b>Latest News</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-f",
+          "_styles": {
+            "P": {
+              "font-size": "48px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#c1c1c1"
+          },
+          "text": "<p><i>Twitter: &nbsp;@kouris_a</i></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-h",
+          "_styles": {
+            "P": {
+              "font-size": "22px"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "postToLoad": "8",
+            "facebookToken": "",
+            "facebook": "",
+            "twitter": "kouris_a",
+            "youtube": "",
+            "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-c"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -273,7 +337,7 @@
           },
           "_anchor": "content1-3",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
@@ -426,6 +490,19 @@
             "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2016."
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-g"
         }
       ]
     },
