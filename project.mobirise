@@ -370,7 +370,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dromeas-2000x1124-24-2000x1124-98.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dromeas-2000x1124-24.jpg",
-                "caption": "Alexandros has been managing the Robotics Club of University of Patras during 2014-2016.",
+                "caption": "I was honoured to be leading the Robotics Club of University of Patras during 2014-2016.",
                 "active": false
               },
               {
@@ -392,7 +392,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/aris-2000x1125-75-2000x1125-12.jpg",
                 "image": "@PROJECT_PATH@/assets/images/aris-2000x1125-75.jpg",
-                "caption": "Visiting Greek National Supercomputer ARIS",
+                "caption": "Visiting Greek National Supercomputer ARIS.",
                 "active": false
               },
               {
@@ -402,7 +402,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/coldetect-2000x1906-8-2000x1906-50.png",
                 "image": "@PROJECT_PATH@/assets/images/coldetect-2000x1906-8.png",
-                "caption": "Past reserach work in Human-Robot Interaction (KUKA-LWR)<br>within Robotics Group in University of Patras",
+                "caption": "Past reserach work in Human-Robot Interaction (KUKA-LWR) within Robotics Group in University of Patras",
                 "active": false
               },
               {
@@ -420,9 +420,21 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/coffee-2000x1125-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/coffee-2000x1125.png",
+                "caption": "UAV-based \"Coffee Sugaring\"; I love good coffee btw.",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/ituro-2000x1667-9-2000x1667-88.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ituro-2000x1667-9.jpg",
-                "caption": "1st and 3rd place, ITURO 2016: Line Following Category.",
+                "caption": "1st and 3rd place in ITURO 2016: Line Following Category.",
                 "active": false
               },
               {
@@ -432,7 +444,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/robotex-2000x1172-84-2000x1172-9.jpg",
                 "image": "@PROJECT_PATH@/assets/images/robotex-2000x1172-84.jpg",
-                "caption": "1st place in Robotex 2015: Enchanced Line Following category.",
+                "caption": "1st place in Robotex 2015: Enchanced Line Following.",
                 "active": false
               },
               {
@@ -464,7 +476,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/sailing-2000x1983-15-2000x1983-59.jpg",
                 "image": "@PROJECT_PATH@/assets/images/sailing-2000x1983-15.jpg",
-                "caption": "In my free time I enjoy sailing.&nbsp;",
+                "caption": "In my summer holidays I enjoy sailing.&nbsp;",
                 "active": false
               },
               {
@@ -474,7 +486,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/ski-2000x2000-84-2000x2000-69.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ski-2000x2000-84.jpg",
-                "caption": "Favourite winter sport: Skiing&nbsp;",
+                "caption": "Favourite winter sport: Skiing.",
                 "active": false
               },
               {
@@ -486,6 +498,18 @@
                 "image": "@PROJECT_PATH@/assets/images/hipc-2000x1500-59.jpg",
                 "caption": "2nd Place on Intel Parallel Programming Challenge <br>HiPC 2015, Bangalore, India",
                 "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/droneflying-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/droneflying-2000x1500.jpg",
+                "caption": "Running experiments on autonomous drone navigation.",
+                "active": false,
+                "alt": "",
+                "title": ""
               }
             ]
           },
