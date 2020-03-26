@@ -679,3 +679,14 @@ section.form .container {
 #testimonials2-8 .card-block {
   text-align: left;
 }
+#header3-l .mbr-section-title,
+#header3-l .mbr-section-subtitle {
+  text-align: center;
+}
+#features4-k .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-k .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
