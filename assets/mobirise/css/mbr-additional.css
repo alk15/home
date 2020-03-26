@@ -477,11 +477,11 @@ section.form .container {
   font-family: 'Open Sans', sans-serif;
 }
 #menu-2 .link {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 #menu-2 .dropdown-item,
 #menu-2 .nav-dropdown-sm .link {
-  font-size: 1.300rem;
+  font-size: 1.191rem;
 }
 #menu-2 .link:hover,
 #menu-2 .dropdown-item:hover,
@@ -572,11 +572,11 @@ section.form .container {
   font-family: 'Open Sans', sans-serif;
 }
 #menu-b .link {
-  font-size: 1.2rem;
+  font-size: 1.05rem;
 }
 #menu-b .dropdown-item,
 #menu-b .nav-dropdown-sm .link {
-  font-size: 1.300rem;
+  font-size: 1.137rem;
 }
 #menu-b .link:hover,
 #menu-b .dropdown-item:hover,
@@ -636,11 +636,11 @@ section.form .container {
   font-family: 'Open Sans', sans-serif;
 }
 #menu-6 .link {
-  font-size: 1.2rem;
+  font-size: 1.05rem;
 }
 #menu-6 .dropdown-item,
 #menu-6 .nav-dropdown-sm .link {
-  font-size: 1.300rem;
+  font-size: 1.137rem;
 }
 #menu-6 .link:hover,
 #menu-6 .dropdown-item:hover,
@@ -679,6 +679,10 @@ section.form .container {
 #menu-6 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header3-14 .mbr-section-title,
+#header3-14 .mbr-section-subtitle {
+  text-align: center;
+}
 #testimonials2-8 .card-block {
   text-align: left;
 }
@@ -694,12 +698,15 @@ section.form .container {
   border-color: #f2f2f2;
 }
 
+#header3-15 .mbr-section-title,
+#header3-15 .mbr-section-subtitle {
+  text-align: center;
+}
 #menu-m .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-m .navbar-caption {
   color: #ffffff;
-  font-size: 15px;
 }
 #menu-m .navbar-toggler {
   color: #ffffff;
@@ -714,11 +721,11 @@ section.form .container {
   font-family: 'Open Sans', sans-serif;
 }
 #menu-m .link {
-  font-size: 1.2rem;
+  font-size: 1.05rem;
 }
 #menu-m .dropdown-item,
 #menu-m .nav-dropdown-sm .link {
-  font-size: 1.300rem;
+  font-size: 1.137rem;
 }
 #menu-m .link:hover,
 #menu-m .dropdown-item:hover,

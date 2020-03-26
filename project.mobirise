@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "research.html",
+    "currentPage": "index.html",
     "versionFirst": "3.8.3",
-    "uniqCompNum": 40,
+    "uniqCompNum": 43,
     "versionPublish": "4.11.5",
     "name": "Personal Website - Imperial College -clone",
     "theme": {
@@ -23,7 +23,10 @@
         "isScrollToTopButton": false,
         "isRtl": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#393434",
+        "#28292d"
+      ]
     },
     "favicon": "",
     "noImageResize": "",
@@ -63,10 +66,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "1.1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.191rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -107,7 +110,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#28292d",
-            "fontSize": "1.2",
+            "fontSize": "1.1",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -132,8 +135,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<em>Alexandros Kouris<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ph.D. Candidate</em><br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"research.html\">Research Projects</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"publications.html\" aria-expanded=\"false\">Publications</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><em>&nbsp; &nbsp; &nbsp; &nbsp;Alexandros Kouris<br>&nbsp; &nbsp; &nbsp; &nbsp;Ph.D. Candidate</em><br></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">About me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"publications.html\" aria-expanded=\"false\">Publications</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -536,10 +539,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -580,7 +583,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#28292d",
-            "fontSize": "1.2",
+            "fontSize": "1.05",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -605,8 +608,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<em>Alexandros Kouris<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ph.D. Candidate</em><br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"research.html\">Research Projects</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"publications.html\" aria-expanded=\"false\">Publications</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><em>&nbsp; &nbsp; &nbsp; &nbsp;Alexandros Kouris<br>&nbsp; &nbsp; &nbsp; &nbsp;Ph.D. Candidate</em><br></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">About me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"publications.html\" aria-expanded=\"false\">Publications</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -781,10 +784,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -825,7 +828,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#28292d",
-            "fontSize": "1.2",
+            "fontSize": "1.05",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -850,8 +853,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<em>Alexandros Kouris<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ph.D. Candidate</em><br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"research.html\">Research Projects</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"publications.html\" aria-expanded=\"false\">Publications</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><em>&nbsp; &nbsp; &nbsp; &nbsp;Alexandros Kouris<br>&nbsp; &nbsp; &nbsp; &nbsp;Ph.D. Candidate</em><br></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">About me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"publications.html\" aria-expanded=\"false\">Publications</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -869,6 +872,26 @@
             "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2020."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#28292d"
+          },
+          "title": "&nbsp;",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-14"
         },
         {
           "_tags": [
@@ -941,7 +964,7 @@
             "showName": true,
             "showBio": false,
             "count": 3,
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
@@ -1017,7 +1040,7 @@
               "active": true,
               "link": "https://scholar.google.co.uk/citations?user=IKACnNIAAAAJ&hl=en",
               "size": 0,
-              "color": "black",
+              "color": "#2969b0",
               "newWindow": true
             }
           },
@@ -1030,7 +1053,7 @@
               "active": true,
               "link": "https://www.researchgate.net/profile/Alexandros_Kouris",
               "size": 0,
-              "color": "black",
+              "color": "#41a85f",
               "newWindow": true
             }
           },
@@ -1119,12 +1142,31 @@
       "components": [
         {
           "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#28292d"
+          },
+          "title": "&nbsp;",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-15"
+        },
+        {
+          "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "15px"
+              "color": "#ffffff"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1138,10 +1180,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1181,7 +1223,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#28292d",
-            "fontSize": "1.2",
+            "fontSize": "1.05",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -1206,8 +1248,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<em>Alexandros Kouris<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ph.D. Candidate</em><br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"research.html\">Research Projects</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"publications.html\" aria-expanded=\"false\">Publications</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><em>&nbsp; &nbsp; &nbsp; &nbsp;Alexandros Kouris<br>&nbsp; &nbsp; &nbsp; &nbsp;Ph.D. Candidate</em><br></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">About me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"publications.html\" aria-expanded=\"false\">Publications</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-m"
         },
         {
@@ -1235,11 +1277,11 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": "7",
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "My Research Projects (under construction...)",
+          "title": "My Research Projects",
           "meta": "Learn more about things that I am working on, or have worked in the past...",
           "_tags": [
             "Theme"
