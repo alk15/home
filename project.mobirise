@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "research.html",
+    "currentPage": "index.html",
     "versionFirst": "3.8.3",
     "uniqCompNum": 43,
     "versionPublish": "4.11.5",
@@ -1621,7 +1621,7 @@
               "size": 0
             }
           },
-          "title": "Approximate LSTM Inference",
+          "title": "Progressive LSTM Inference",
           "text": "<i><b>Keywords: </b>key1, key2<br></i> <br>In this project...",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
