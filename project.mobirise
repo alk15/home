@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.8.3",
-    "uniqCompNum": 18,
+    "uniqCompNum": 20,
     "versionPublish": "4.11.5",
     "name": "Personal Website - Imperial College -clone",
     "theme": {
@@ -188,7 +188,7 @@
             }
           },
           "title": "Alexandros Kouris",
-          "text": "Ph.D. Candidate<br>Circuits &amp; Systmes (CAS) group<br>Electrical and Electronic Engineering &nbsp;Dept<br>Imperial &nbsp;College London",
+          "text": "Ph.D. Candidate<br>Intelligent Digital Systems Lab ( iDSL )<br>Electrical and Electronic Engineering &nbsp;Dept<br>Imperial &nbsp;College London",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content1-3\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -253,7 +253,7 @@
             }
           },
           "title": "About me",
-          "text": "I received my M.Eng degree in Computer Engineering and Informatics from the University of Patras in Greece. Currently, I live in London and I am a Ph.D. student in the Department of Electrical and Electronic Engineering at Imperial College London, under the supervision of Dr. Christos-Savvas Bouganis, within the <a href=\"http://www.imperial.ac.uk/intelligent-digital-systems\">Intelligent Digital Systems Lab (iDSL)</a>.&nbsp;<br><br><b><i>\"Towards Embedded Robot Visual Intelligence\"&nbsp;<br></i></b>My current research focuses on high performance embedded (hardware and software) Deep Learning systems, with particular interest on Visual Perception applications related to intelligent mobile robots and Unmanned Aerial Vehicles (UAVs). I am interested on exploiting approximation techniques to explore the trade-off between performance and accuarcy in real-world tasks. <br>From a systems perspective, I focus on custom hardware implementations on FPGAs, and efficient mappings of machine learning models to GPUs.&nbsp;<br><br>My Ph.D. is funded by the Engineering and Physical Sciences Research Council (EPSRC), within the High-Performance Embedded and Distributed Systems (HiPEDS) Centre for Doctoral Training.&nbsp;<br><br><b><i>Collaborations<br></i></b>I am also affiliated with the Centre for <a href=\"https://spatialml.net/\" target=\"_blank\">Spatial Computational Learning</a> and have active collaboration with Dr. Stefan Leutenegger from the Dyson Robotics Lab at Imperial College London, Dr. Stylianos Venieris for Samsung AI Research, Cambridge, and Dr. Christos Kyrkou from the KIOS Research Center of the University of Cyprus.&nbsp;<br><br><i><b>Before that...</b></i><br>I also joined Arm Research, Cambridge, UK during the summer of 2019, as an Emerging Technologies Research Intern, working on developing Deep Learning models for Machine Perception that target environmental and situational awareness, focusing on Action Recognition and investigated optimizations for the efficient deployment of such models to Arm hardware (CPU, ML Processor).<br><br> In the past I have also focused my work on Human-Robot Interaction (Collision detection and avoidance), autonomous mobile robots for fast and accurate line following,  as well as in High-Performance Computing targeting numerical linear algebra kernels and kernels for data mining.&nbsp;<br>",
+          "text": "I received my M.Eng degree in Computer Engineering and Informatics from the University of Patras in Greece. Currently, I live in London and I am a Ph.D. candidate in the Department of Electrical and Electronic Engineering at Imperial College London, under the supervision of Dr. Christos-Savvas Bouganis, within the <a href=\"http://www.imperial.ac.uk/intelligent-digital-systems\">Intelligent Digital Systems Lab (iDSL)</a>.&nbsp;<br><br><b><i>\"Towards Embedded Robot Visual Intelligence\"&nbsp;<br></i></b>My current research focuses on high performance embedded (hardware and software) Deep Learning systems, with particular interest on Visual Perception applications related to intelligent mobile robots and Unmanned Aerial Vehicles (UAVs). I am interested on exploiting approximation techniques to explore the trade-off between performance and accuarcy in real-world tasks. <br>From a systems perspective, I focus on custom hardware implementations on FPGAs, and efficient mappings of machine learning models to GPUs.&nbsp;<br><br>My Ph.D. is funded by the Engineering and Physical Sciences Research Council (EPSRC), within the High-Performance Embedded and Distributed Systems (HiPEDS) Centre for Doctoral Training.&nbsp;<br><br><b><i>Collaborations<br></i></b>I am also affiliated with the Centre for <a href=\"https://spatialml.net/\" target=\"_blank\">Spatial Computational Learning</a> and have active collaboration with Dr. Stefan Leutenegger from the Dyson Robotics Lab at Imperial College London, Dr. Stylianos Venieris for Samsung AI Research, Cambridge, and Dr. Christos Kyrkou from the KIOS Research Center of the University of Cyprus.&nbsp;<br><br><i><b>Before that...</b></i><br>I also joined Arm Research, Cambridge, UK during the summer of 2019, as an Emerging Technologies Research Intern, working on developing Deep Learning models for Machine Perception that target environmental and situational awareness, focusing on Action Recognition and investigated optimizations for the efficient deployment of such models to Arm hardware (CPU, ML Processor).<br><br> In the past I have also focused my work on Human-Robot Interaction (Collision detection and avoidance), autonomous mobile robots for fast and accurate line following,  as well as in High-Performance Computing targeting numerical linear algebra kernels and kernels for data mining.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -299,14 +299,14 @@
           "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
           "_params": {
             "paddingTop": 0,
-            "paddingBottom": "1",
-            "postToLoad": "8",
+            "paddingBottom": 0,
+            "postToLoad": "10",
             "facebookToken": "",
             "facebook": "",
             "twitter": "kouris_a",
             "youtube": "",
             "bgColorRadio": true,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#cccccc",
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
             "overlay": true,
@@ -318,7 +318,7 @@
             "Extension"
           ],
           "_name": "feed",
-          "_anchor": "feed-c"
+          "_anchor": "feed-j"
         },
         {
           "_tags": [
@@ -489,7 +489,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019."
+          "text": "Copyright (c) 2020."
         }
       ]
     },
@@ -607,7 +607,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019."
+          "text": "Copyright (c) 2020."
         },
         {
           "_inherit": "features3",
@@ -851,7 +851,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019."
+          "text": "Copyright (c) 2020."
         },
         {
           "_tags": [
