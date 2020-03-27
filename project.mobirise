@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "short-cv.html",
     "versionFirst": "3.8.3",
-    "uniqCompNum": 75,
+    "uniqCompNum": 76,
     "versionPublish": "4.11.5",
     "name": "Personal Website - Imperial College -clone",
     "theme": {
@@ -1971,27 +1971,39 @@
         },
         {
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
             }
           },
           "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
+            "showTitle": true,
+            "showCaption": false,
+            "paddingTop": "5",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/ak-fest3-1-1544x956.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
           },
-          "title": "Short CV",
-          "meta": "By John Smith posted July 20, 2016",
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Short CV",
+          "caption": "",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-1b"
+          "_name": "content5",
+          "_anchor": "content5-23"
         },
         {
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
