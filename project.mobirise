@@ -1713,7 +1713,7 @@
             }
           },
           "title": "Human-Robot Collaboration",
-          "text": "<i><b>Keywords: </b>Frequency domain filtering, collision detection, Admittance/Impedance Control, contact distinction<br></i> <br>In this project...<br><br>Research Project at: Robotics Group, University of Patras<br>Joint work with: F.Dimeas and N.Aspragathos<br>",
+          "text": "<i><b>Keywords: </b>Frequency domain filtering, collision detection, Admittance/Impedance Control, contact distinction</i><br><i><br></i>-&gt;&nbsp;A novel contact distinction method is developed, monitoring externally applied forces/torques on a robot manipulator (arm) during physical human-robot interaction, in order todistinguish collisions from intended contacts.&nbsp;<br>-&gt; The method is based on frequency component analysis, and adapts with respect to the desired dynamic behavior (inertia, damping and elasticity) of the admittance/impedance controller.<br>-&gt; Collision trigger appropriate reaction from the robot, improving the safety of the operator during the interaction with the robot.<br><br>Research Project at: Robotics Group, University of Patras<br>Joint work with: F.Dimeas and N.Aspragathos<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1770,7 +1770,7 @@
             }
           },
           "title": "Line Following Robots",
-          "text": "<i><b>Keywords: </b>FSM-based state-estimation, Adaptive PD Control, Mobile Robots<br></i> <br>In this project...<br><br>Research Project at: Robotics Group, University of Patras<br>Joint work with: A.Toumpa, F. Dimeas, N.Aspragathos (et al.)<br>",
+          "text": "<i><b>Keywords: </b>FSM-based state-estimation, Adaptive PD Control, Mobile Robots<br></i> <br>-&gt; Finite State Machine -based state estimation for line following robots, able to detect line irregurarities or noisy sensor measurments on an array of iR reflectance sensors, enhancing the robot's situational awareness.&nbsp;<br>-&gt; Based on the estimated state, the robot switches between a proposed variable-gain PD controller for line following and an open-loop controller handling special cases.<br><br>Research Project at: Robotics Group, University of Patras<br>Joint work with: A.Toumpa, F. Dimeas, N.Aspragathos (et al.)<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1827,7 +1827,7 @@
             }
           },
           "title": "Acceleration of Tridiagonal System Solvers",
-          "text": "<i><b>Keywords: </b>CUDA, Nvidia GPUs, QR-decomposition, Givens Rotations, gSpike, Parallel System Solvers&nbsp;<br></i> <br>In this project...<br><br>Research Project at: HPC Lab, University of Patras<br>Joint work with: A.Sobczyk, E.Gallopoulos and A.Sameh<br>",
+          "text": "<i><b>Keywords: </b>CUDA, Nvidia GPUs, QR-decomposition, Givens Rotations, gSpike, Parallel System Solvers&nbsp;<br></i> <br>-&gt; We introduce g-Spike:&nbsp; a parallel algorithm for solving general nonsymmetric tridiagonal systems for the GPU. The solver applies&nbsp;Givens rotations and QR factorization without pivoting.&nbsp;It also implements a low-rank modification strategy to compute the Spike DS decomposition even when the partitioning defines singular submatrices along the diagonal.<br>-&gt; Numerical experiments with problems of high order indicate that g-Spike is competitive in runtime with existing GPU methods, and can provide acceptable results when other methods cannot be applied or fail.<br><br>Research Project at: HPC Lab, University of Patras<br>Joint work with: A.Sobczyk, E.Gallopoulos and A.Sameh<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
