@@ -770,9 +770,22 @@ section.form .container {
 }
 #msg-box5-u P {
   text-align: left;
+  font-size: 17px;
 }
 #msg-box5-u H3 {
   font-size: 30px;
+}
+#msg-box5-u SPAN {
+  font-size: 12px;
+}
+#msg-box5-u I {
+  font-size: 17px;
+}
+#msg-box5-z H3 {
+  font-size: 30px;
+}
+#msg-box5-z P {
+  font-size: 17px;
 }
 #msg-box5-w H3 {
   font-size: 30px;
@@ -785,9 +798,6 @@ section.form .container {
   font-size: 30px;
 }
 #msg-box5-13 H3 {
-  font-size: 30px;
-}
-#msg-box5-z H3 {
   font-size: 30px;
 }
 #msg-box5-11 H3 {

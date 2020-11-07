@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "research.html",
     "versionFirst": "3.8.3",
     "uniqCompNum": 81,
     "versionPublish": "4.11.5",
@@ -1305,8 +1305,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "My Research Projects (under construction...)",
-          "meta": "Learn more about things that I am working on, or have worked in the past...",
+          "title": "Selected Research Projects <br>(under construction...)",
+          "meta": "Learn more about things that I am working on (or have worked in the past).",
           "_tags": [
             "Theme"
           ],
@@ -1342,6 +1342,73 @@
               "src": "@PROJECT_PATH@/assets/images/cascade-1400x603.png",
               "link": "",
               "alt": "",
+              "title": "caption"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "CascadeCNN<br>",
+          "text": "<i><b>Keywords: </b>CNN Quantisation, Embedded FPGAs, Design Space Exploration, Performance Modelling, Input-Dependent Computation, Adaptive Inference&nbsp;</i><br>&nbsp;<br>-&gt;A novel two-stage FPGA-based accelerator for CNN classifiers, exploiting the fact that not all input require the level same numerical precision in computations to yield a confident prediction, without the need of model re-training. <br>-&gt;Comprises an excessively quantised low-precision unit (LPU) providing rapid classification predictions, followed by a confidence evaluation unit that determines which samples should be re-processed by a high-precision unit to restore accuracy, based on the LPU prediction confidence.<br>-&gt;Analytical performance modelling and Design Space Exploration is employed to parametrise a configurable hardware architecture yielding an tailored instance for the given CNN-FPGA pair, according to user-specified requirements in performance (throughput or latency) and accuracy.<br><br>Research Project at: iDSL, Imperial College London<br>Joint work with: S.Venieris, C.S.Bouganis",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-u",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "17px"
+            },
+            "H3": {
+              "font-size": "30px"
+            },
+            "SPAN": {
+              "font-size": "12px"
+            },
+            "I": {
+              "font-size": "17px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "46",
+            "paddingTop": 0,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/lstms2-722x304.png",
+              "link": "",
+              "alt": "",
               "title": ""
             },
             "video": {
@@ -1356,20 +1423,20 @@
               "size": 0
             }
           },
-          "title": "CascadeCNN",
-          "text": "<i><b>Keywords: </b>CNN quantisation, Embedded FPGAs, Input-Dependent Computation</i><br>&nbsp;<br>In this project",
+          "title": "Progressive LSTM Inference",
+          "text": "<i><b>Keywords: </b>SVD-based compression, prunning, anytime inference, Embedded FPGAs, Model-Hardware co-design, Self-driving Cars<br></i> <br>-&gt; A methodology combining iterative refinement (through low-rank approximation) and structured prunning, to conduct the most information-carrying calculations first in LSTM inference.<br>-&gt; Provides a rapid approximation of the final output, which is iteratively refined as a function of latency budget, Implemented on autonomous navigation task for self-driving cars, enabling fast reaction.<br>-&gt; Configurable FPGA-based hardware architecture, tailored to the target LSTM-FPGA pair, co-design with the approximate LSTM model.<br><br>Research Project at: iDSL, Imperial College London<br>Joint work with: S.Venieris, C.S.Bouganis<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-u",
+          "_anchor": "msg-box5-z",
           "_styles": {
-            "P": {
-              "text-align": "left"
-            },
             "H3": {
               "font-size": "30px"
+            },
+            "P": {
+              "font-size": "17px"
             }
           }
         },
@@ -1416,8 +1483,8 @@
               "size": 0
             }
           },
-          "title": "Autonomous Robot Navigation",
-          "text": "<i><b>Keywords: </b>Visual Navigation, Perception, spatio-temporal CNNs, Self-supervised Learning<br></i> <br>In this project...",
+          "title": "Autonomous Drone Navigation",
+          "text": "<i><b>Keywords:&nbsp;</b></i>Self-supervised Learning,&nbsp;<i>Visual Navigation, Obstacle Avoidance, Spatio-temporal representations, Two-stream CNNs</i><br><br>-&gt; Two-stream CNN, simultaneously processing current and previous frame of a UAV camera to extract spatio-temporal represntations, improving efficiency in autonomous navigation.<br>-&gt;Predicting distance-to-collision towards multiple directions through regression, enabling a custom motion planner to make more informed action decisions, avoiding collision in real-world environments.<br>-&gt; Trained in a self-supervised manner, with a UAV performing safe autonomous navigation through the use of mounted distance sensors, also used as ground-thruth signals for training.<br><br>Research Project at: iDSL, Imperial College London<br>Joint work with: C.S.Bouganis<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1474,7 +1541,7 @@
             }
           },
           "title": "UAV-based Object Detection",
-          "text": "<i><b>Keywords: </b>Altitude-aware region proposals, domain-specific optimisation, Embedded GPUs<br></i> <br>In this project...",
+          "text": "<i><b>Keywords: </b>Object Detection, Domain</i>-specific models, Data-driven oprimisation,&nbsp;<i>Altitude-aware region proposals, Embedded GPUs<br></i> <br>-&gt; Exploiting applictaion-specific information and prior domain knowledge, to optimise region-proposal-based object detectors for efficient altitude aware vehicle detection in UAVs.<br>-&gt; Considering UAV flight altitude captured by sensors at runtime, to eliminate false positive candiate detections of vehicles on the ground (e.g. based on size/density), effectively reducing inference workload.<br>-&gt; Exploiting light-weight road segmentation method for further performance optimisation, without sacrifising accuracy.<br><br>Research Project at: iDSL, Imperial College London and KIOS<br>Joint work with: C. Kyrkou and C.S. Bouganis<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1531,7 +1598,7 @@
             }
           },
           "title": "Visual Semantic Mapping (SLAM)",
-          "text": "<i><b>Keywords: </b>Semantic Segmentation, Impainting, Occlusion Handling, RGB-D perception,<br></i> <br>In this project...",
+          "text": "<i><b>Keywords: </b>Semantic Segmentation, Impainting, Occlusion Handling, RGB-D perception, Simultaneous Localisation and Mapping (SLAM)<br></i> <br>(work in progress) - more details soon...<br><br>Research Project at: iDSL and &nbsp;Dyson Robotics Lab at Imperial College<br>Joint work with: A.Nicastro, S.Leutenegger, C.S.Bouganis<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1589,70 +1656,13 @@
             }
           },
           "title": "CNN-to-FPGA Mapping",
-          "text": "<i><b>Keywords: </b>survey, automated toolflows, FPGAs<br></i> <br>In this project...",
+          "text": "<i><b>Keywords: </b>survey, Automated toolflows, DNNs, FPGAs<br></i> <br>-&gt; Survey on Automated toolflows for mapping DNNs to FPGAs, along with a set of promising research areas that can bridge the gap between DL and hardware design communities.<br>-&gt; From a deep learning practitioner's perspective, we extensive study the supported DL models, achived inference speed and applicability to visual scene understanding tasks, from latency-critical mobile systems to high-throughput cloud services.<br>-&gt; From a harware engineer's perspective, we present a detailed analysis of architectural design choices, design space exploration methods and supported oprimisations on implementation &nbsp;(such as numerical precision).<br><br>Research Project at: iDSL, Imperial College London<br>Joint work with: S.Venieris and C.S.Bouganis<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-13",
-          "_styles": {
-            "H3": {
-              "font-size": "30px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "46",
-            "paddingTop": 0,
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/lstms2-722x304.png",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Progressive LSTM Inference",
-          "text": "<i><b>Keywords: </b>SVD-based compression, prunning, anytime inference, Embedded FPGAs, Self-driving Cars<br></i> <br>In this project...",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-z",
           "_styles": {
             "H3": {
               "font-size": "30px"
@@ -1703,7 +1713,7 @@
             }
           },
           "title": "Human-Robot Collaboration",
-          "text": "<i><b>Keywords: </b>Frequency domain filtering, collision detection, Admittance/Impedance Control, contact distinction<br></i> <br>In this project...",
+          "text": "<i><b>Keywords: </b>Frequency domain filtering, collision detection, Admittance/Impedance Control, contact distinction<br></i> <br>In this project...<br><br>Research Project at: Robotics Group, University of Patras<br>Joint work with: F.Dimeas and N.Aspragathos<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1760,7 +1770,7 @@
             }
           },
           "title": "Line Following Robots",
-          "text": "<i><b>Keywords: </b>FSM-based state-estimation, Adaptive PD Control, Mobile Robots<br></i> <br>In this project...",
+          "text": "<i><b>Keywords: </b>FSM-based state-estimation, Adaptive PD Control, Mobile Robots<br></i> <br>In this project...<br><br>Research Project at: Robotics Group, University of Patras<br>Joint work with: A.Toumpa, F. Dimeas, N.Aspragathos (et al.)<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1817,7 +1827,7 @@
             }
           },
           "title": "Acceleration of Tridiagonal System Solvers",
-          "text": "<i><b>Keywords: </b>CUDA, Nvidia GPUs, QR-decomposition, Givens Rotations, gSpike, Parallel System Solvers&nbsp;<br></i> <br>In this project...",
+          "text": "<i><b>Keywords: </b>CUDA, Nvidia GPUs, QR-decomposition, Givens Rotations, gSpike, Parallel System Solvers&nbsp;<br></i> <br>In this project...<br><br>Research Project at: HPC Lab, University of Patras<br>Joint work with: A.Sobczyk, E.Gallopoulos and A.Sameh<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
