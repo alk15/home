@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "short-cv.html",
+    "currentPage": "research.html",
     "versionFirst": "3.8.3",
     "uniqCompNum": 81,
     "versionPublish": "4.11.5",
@@ -1304,7 +1304,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Selected Research Projects <br>(under construction...)",
+          "title": "Selected Research Projects <br>",
           "meta": "Learn more about things that I am working on (or have worked in the past).",
           "_tags": [
             "Theme"
