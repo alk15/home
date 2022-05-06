@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "short-cv.html",
     "versionFirst": "3.8.3",
     "uniqCompNum": 81,
     "versionPublish": "4.11.5",
@@ -2172,7 +2172,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>2021 IEEE/CVF Int. Conf. on Computer Vision (ICCV)</p><p><br></p><p>2021 IEEE Int. Conf. on Intelligent Robots and Systems (IROS)</p><p><br></p><p>2021 IEEE/CVF Int. Conf. on Computer Vision and Pattern Recognition (CVPR)</p><p><br></p><p>2021 IEEE Int. Conf. on Artificial Intelligence Circuits and Systems (AICAS)</p><p><br></p><p>2021 IEEE Int. Conf. on Robotics and Automation (ICRA)</p><p><br></p><p>2021 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA)</p><p><br></p><p>2020 IEEE Int. Conf. on Intelligent Robots and Systems (IROS)</p><p><br></p><p>2020 IEEE Int. Conf. on Robotics and Automation (ICRA)</p><p><br></p><p>2020 IEEE Int. Conf. on Artificial Intelligence Circuits and Systems (AICAS)</p><p><br></p><p>2019 IEEE Int. Conf. on Intelligent Robots and Systems (IROS)</p></blockquote>",
+          "text": "<blockquote><p>2022 European Conference on Computer Vision (ECCV)</p><p><br></p><p>2022 IEEE Int. Conf. on Intelligent Robots and Systems (IROS)</p><p><br></p><p>2022 IEEE/CVF Int. Conf. on Computer Vision and Pattern Recognition (CVPR)</p><p><br></p><p>2022 Int. Conf. on Learning Representations (ICLR)</p><p><br></p><p>2022 European Conference on Parallel and Distributed Computing (Euro-Par)&nbsp;</p><p><br></p><p>2021 IEEE/CVF Int. Conf. on Computer Vision (ICCV)</p><p><br></p><p>2021 IEEE Int. Conf. on Intelligent Robots and Systems (IROS)</p><p><br></p><p>2021 IEEE/CVF Int. Conf. on Computer Vision and Pattern Recognition (CVPR)</p><p><br></p><p>2021 IEEE Int. Conf. on Artificial Intelligence Circuits and Systems (AICAS)</p><p><br></p><p>2021 IEEE Int. Conf. on Robotics and Automation (ICRA)</p><p><br></p><p>2021 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA)</p><p><br></p><p>2020 IEEE Int. Conf. on Intelligent Robots and Systems (IROS)</p><p><br></p><p>2020 IEEE Int. Conf. on Robotics and Automation (ICRA)</p><p><br></p><p>2020 IEEE Int. Conf. on Artificial Intelligence Circuits and Systems (AICAS)</p><p><br></p><p>2019 IEEE Int. Conf. on Intelligent Robots and Systems (IROS)</p></blockquote>",
           "_tags": [
             "Theme"
           ],
