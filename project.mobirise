@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "publications.html",
     "versionFirst": "3.8.3",
     "uniqCompNum": 81,
     "versionPublish": "4.11.5",
@@ -135,7 +135,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><em>&nbsp; &nbsp; &nbsp; &nbsp;Alexandros Kouris<br>&nbsp; &nbsp; &nbsp; &nbsp;Ph.D. Candidate</em><br></a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><em>&nbsp; &nbsp; &nbsp; &nbsp;Alexandros Kouris<br></em>&nbsp; &nbsp; &nbsp; &nbsp;Research Scientist<br></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"research.html\">Research Projects</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"publications.html\" aria-expanded=\"false\">Publications</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"short-cv.html\" aria-expanded=\"false\">Short CV</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -637,7 +637,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><em>&nbsp; &nbsp; &nbsp; &nbsp;Alexandros Kouris<br>&nbsp; &nbsp; &nbsp; &nbsp;Ph.D. Candidate</em><br></a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><em>&nbsp; &nbsp; &nbsp; &nbsp;Alexandros Kouris<br></em>&nbsp; &nbsp; &nbsp; &nbsp;Research Scientist<br></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"research.html\">Research Projects</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"publications.html\" aria-expanded=\"false\">Publications</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"short-cv.html\" aria-expanded=\"false\">Short CV</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -882,7 +882,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><em>&nbsp; &nbsp; &nbsp; &nbsp;Alexandros Kouris<br>&nbsp; &nbsp; &nbsp; &nbsp;Ph.D. Candidate</em><br></a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><em>&nbsp; &nbsp; &nbsp; &nbsp;Alexandros Kouris<br></em>&nbsp; &nbsp; &nbsp; &nbsp;Research Scientist<br></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"research.html\">Research Projects</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"publications.html\" aria-expanded=\"false\">Publications</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"short-cv.html\" aria-expanded=\"false\">Short CV</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -1277,7 +1277,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><em>&nbsp; &nbsp; &nbsp; &nbsp;Alexandros Kouris<br>&nbsp; &nbsp; &nbsp; &nbsp;Ph.D. Candidate</em><br></a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><em>&nbsp; &nbsp; &nbsp; &nbsp;Alexandros Kouris<br></em>&nbsp; &nbsp; &nbsp; &nbsp;Research Scientist<br></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"research.html\">Research Projects</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"publications.html\" aria-expanded=\"false\">Publications</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"short-cv.html\" aria-expanded=\"false\">Short CV</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-m"
         },
@@ -1943,7 +1943,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><em>&nbsp; &nbsp; &nbsp; &nbsp;Alexandros Kouris<br>&nbsp; &nbsp; &nbsp; &nbsp;Ph.D. Candidate</em><br></a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><em>&nbsp; &nbsp; &nbsp; &nbsp;Alexandros Kouris<br></em>&nbsp; &nbsp; &nbsp; &nbsp;Research Scientist<br></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"research.html\">Research Projects</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"publications.html\" aria-expanded=\"false\">Publications</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"short-cv.html\" aria-expanded=\"false\">Short CV</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-17"
         },
@@ -2178,7 +2178,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>2022 Conference on Neural Information Processing Systems (NeurIPS)</p><p><br></p><p>2022 European Conference on Computer Vision (ECCV) - &nbsp;<b>Selected as an Outstanding Reviewer</b></p><p><br></p><p>2022 IEEE Int. Conf. on Intelligent Robots and Systems (IROS)</p><p><br></p><p>2022 IEEE/CVF Int. Conf. on Computer Vision and Pattern Recognition (CVPR)</p><p><br></p><p>2022 Int. Conf. on Learning Representations (ICLR)</p><p><br></p><p>2022 European Conference on Parallel and Distributed Computing (Euro-Par)&nbsp;</p><p><br></p><p>2021 IEEE/CVF Int. Conf. on Computer Vision (ICCV)</p><p><br></p><p>2021 IEEE Int. Conf. on Intelligent Robots and Systems (IROS)</p><p><br></p><p>2021 IEEE/CVF Int. Conf. on Computer Vision and Pattern Recognition (CVPR)</p><p><br></p><p>2021 IEEE Int. Conf. on Artificial Intelligence Circuits and Systems (AICAS)</p><p><br></p><p>2021 IEEE Int. Conf. on Robotics and Automation (ICRA)</p><p><br></p><p>2021 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA)</p><p><br></p><p>2020 IEEE Int. Conf. on Intelligent Robots and Systems (IROS)</p><p><br></p><p>2020 IEEE Int. Conf. on Robotics and Automation (ICRA)</p><p><br></p><p>2020 IEEE Int. Conf. on Artificial Intelligence Circuits and Systems (AICAS)</p><p><br></p><p>2019 IEEE Int. Conf. on Intelligent Robots and Systems (IROS)</p></blockquote>",
+          "text": "<blockquote><p>2023 Int. Conf. on Machine Learning (ICML)</p><p><br></p><p>2022 Conference on Neural Information Processing Systems (NeurIPS) - <b>Selected as a Top Reviewer</b></p><p><br></p><p>2022 European Conference on Computer Vision (ECCV) - &nbsp;<b>Selected as an Outstanding Reviewer</b></p><p><br></p><p>2022 IEEE Int. Conf. on Intelligent Robots and Systems (IROS)</p><p><br></p><p>2022 IEEE/CVF Int. Conf. on Computer Vision and Pattern Recognition (CVPR)</p><p><br></p><p>2022 Int. Conf. on Learning Representations (ICLR)</p><p><br></p><p>2022 European Conference on Parallel and Distributed Computing (Euro-Par)&nbsp;</p><p><br></p><p>2021 IEEE/CVF Int. Conf. on Computer Vision (ICCV)</p><p><br></p><p>2021 IEEE Int. Conf. on Intelligent Robots and Systems (IROS)</p><p><br></p><p>2021 IEEE/CVF Int. Conf. on Computer Vision and Pattern Recognition (CVPR)</p><p><br></p><p>2021 IEEE Int. Conf. on Artificial Intelligence Circuits and Systems (AICAS)</p><p><br></p><p>2021 IEEE Int. Conf. on Robotics and Automation (ICRA)</p><p><br></p><p>2021 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA)</p><p><br></p><p>2020 IEEE Int. Conf. on Intelligent Robots and Systems (IROS)</p><p><br></p><p>2020 IEEE Int. Conf. on Robotics and Automation (ICRA)</p><p><br></p><p>2020 IEEE Int. Conf. on Artificial Intelligence Circuits and Systems (AICAS)</p><p><br></p><p>2019 IEEE Int. Conf. on Intelligent Robots and Systems (IROS)</p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -2220,7 +2220,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>Transactions on Robotics (T-RO), IEEE</p><p><br></p><p>Robotics and Automation Letters (RA-L),  IEEE</p><p><br></p><p>Robotica, &nbsp;Cambridge University Press</p><p><br></p><p>Automatica, &nbsp;Elsevier</p><p><br></p><p>Automation in Construction, Elsevier</p><p><br></p><p>Journal of Systems Architecture, Elsevier</p><p><br></p><p>Ad Hoc Networks, &nbsp;Elsevier</p><p><br></p><p>Transactions on Circuits and Systems II (TCAS-II), IEEE</p></blockquote>",
+          "text": "<blockquote><p>Transactions on Robotics (T-RO), IEEE</p><p><br></p><p>Robotics and Automation Letters (RA-L),  IEEE</p><p><br></p><p>Robotica, &nbsp;Cambridge University Press</p><p><br></p><p>Automatica, &nbsp;Elsevier</p><p><br></p><p>Automation in Construction, Elsevier</p><p><br></p><p>Journal of Systems Architecture, Elsevier</p><p><br></p><p>Ad Hoc Networks, &nbsp;Elsevier</p><p><br></p><p>Transactions on Industrial Informatics (TII), IEEE</p><p><br></p><p>Transactions on Circuits and Systems II (TCAS-II), IEEE</p></blockquote>",
           "_tags": [
             "Theme"
           ],
